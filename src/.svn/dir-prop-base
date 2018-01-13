@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 61
+ogre.cfg
+SelectionBuffer - Kopie.py
+ogre.log
+depthbuffer.png
+
+END

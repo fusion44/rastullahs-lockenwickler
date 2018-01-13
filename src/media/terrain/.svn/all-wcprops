@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/media/terrain
+END
+ETterrain.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/ETterrain.png
+END
+ETlightmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/ETlightmap.png
+END
+cursorTex.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/media/terrain/cursorTex.png
+END
+VSLodMorph.cg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/VSLodMorph.cg
+END
+decalBase.png
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/media/terrain/decalBase.png
+END
+ETTerrain.material
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/ETTerrain.material
+END
+ETterrain.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/ETterrain.cfg
+END
+PSLighting.cg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/PSLighting.cg
+END
+PSSplat2.cg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/PSSplat2.cg
+END
+ETShader.program
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/ETShader.program
+END
+ETcoverage.0.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/ETcoverage.0.png
+END
+ETcoverage.1.png
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/ETcoverage.1.png
+END
+VSLodMorph2.cg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/VSLodMorph2.cg
+END
+splatting0.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/splatting0.png
+END
+splatting1.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/splatting1.png
+END
+splatting2.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/splatting2.png
+END
+splatting3.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/splatting3.png
+END
+splatting4.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/splatting4.png
+END
+splatting5.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/splatting5.png
+END
+PSSplat.cg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/repos/dsa-hl/!svn/ver/4914/rl/trunk/editors/Lockenwickler/src/media/terrain/PSSplat.cg
+END

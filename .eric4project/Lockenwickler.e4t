@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-4.2.dtd">
+<!-- eric4 tasks file for project Lockenwickler -->
+<!-- Saved: 2008-12-16, 21:05:09 -->
+<Tasks version="4.2">
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-10-27, 20:08:09</Created>
+    <Resource>
+      <Filename>src/GOPropertyEditorDialogSTRING.py</Filename>
+      <Linenumber>28</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-10-27, 20:08:09</Created>
+    <Resource>
+      <Filename>src/GOPropertyEditorDialogSTRING.py</Filename>
+      <Linenumber>36</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-11-09, 14:36:33</Created>
+    <Resource>
+      <Filename>src/GOIntEditor.py</Filename>
+      <Linenumber>28</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-11-09, 14:36:33</Created>
+    <Resource>
+      <Filename>src/GOIntEditor.py</Filename>
+      <Linenumber>36</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-11-09, 14:37:21</Created>
+    <Resource>
+      <Filename>src/GOStringEditor.py</Filename>
+      <Linenumber>28</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-11-09, 14:37:21</Created>
+    <Resource>
+      <Filename>src/GOStringEditor.py</Filename>
+      <Linenumber>36</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-11-10, 18:10:19</Created>
+    <Resource>
+      <Filename>src/NewModuleWizard.py</Filename>
+      <Linenumber>29</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-11-10, 18:10:19</Created>
+    <Resource>
+      <Filename>src/NewModuleWizard.py</Filename>
+      <Linenumber>35</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2008-11-10, 18:10:19</Created>
+    <Resource>
+      <Filename>src/NewModuleWizard.py</Filename>
+      <Linenumber>41</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: implement save here</Summary>
+    <Description></Description>
+    <Created>2008-12-16, 21:04:45</Created>
+    <Resource>
+      <Filename>src/Lockenwickler.py</Filename>
+      <Linenumber>423</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

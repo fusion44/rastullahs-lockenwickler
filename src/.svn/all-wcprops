@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src
+END
+OgreMainWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/dsa-hl/!svn/ver/4921/rl/trunk/editors/Lockenwickler/src/OgreMainWindow.py
+END
+ConsoleWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/ConsoleWindow.py
+END
+AddTriggerDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/dsa-hl/!svn/ver/4910/rl/trunk/editors/Lockenwickler/src/AddTriggerDialog.py
+END
+DepthBuffer.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/DepthBuffer.py
+END
+icons_rc.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/dsa-hl/!svn/ver/4918/rl/trunk/editors/Lockenwickler/src/icons_rc.py
+END
+OgreWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/repos/dsa-hl/!svn/ver/4873/rl/trunk/editors/Lockenwickler/src/OgreWidget.py
+END
+MyTerrainManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/MyTerrainManager.py
+END
+ModuleDirectoryView.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/dsa-hl/!svn/ver/4903/rl/trunk/editors/Lockenwickler/src/ModuleDirectoryView.py
+END
+Ui_GOPropertyEditorDialogINT.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/repos/dsa-hl/!svn/ver/4586/rl/trunk/editors/Lockenwickler/src/Ui_GOPropertyEditorDialogINT.py
+END
+Ui_NewModuleWizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/Ui_NewModuleWizard.py
+END
+GlobDirectoryWalker.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/dsa-hl/!svn/ver/4904/rl/trunk/editors/Lockenwickler/src/GlobDirectoryWalker.py
+END
+SelectionBuffer.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/dsa-hl/!svn/ver/4921/rl/trunk/editors/Lockenwickler/src/SelectionBuffer.py
+END
+NewModuleWizard.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/dsa-hl/!svn/ver/4898/rl/trunk/editors/Lockenwickler/src/NewModuleWizard.py
+END
+ModuleManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/ModuleManager.py
+END
+GameObjectClassView.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/dsa-hl/!svn/ver/4891/rl/trunk/editors/Lockenwickler/src/GameObjectClassView.py
+END
+GameObjectClassManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/GameObjectClassManager.py
+END
+PythonOgreConfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/PythonOgreConfig.py
+END
+Property.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/Property.py
+END
+MaterialSelectionDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/MaterialSelectionDialog.py
+END
+ViewportGrid.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/repos/dsa-hl/!svn/ver/4721/rl/trunk/editors/Lockenwickler/src/ViewportGrid.py
+END
+Plugins-linux.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/dsa-hl/!svn/ver/4807/rl/trunk/editors/Lockenwickler/src/Plugins-linux.cfg
+END
+ModelSelectionDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/ModelSelectionDialog.py
+END
+ui_ConsoleWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/ui_ConsoleWindow.py
+END
+MovePivot.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/repos/dsa-hl/!svn/ver/4921/rl/trunk/editors/Lockenwickler/src/MovePivot.py
+END
+Plugins.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/repos/dsa-hl/!svn/ver/4407/rl/trunk/editors/Lockenwickler/src/Plugins.cfg
+END
+ObjectPropertyWin.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/dsa-hl/!svn/ver/4891/rl/trunk/editors/Lockenwickler/src/ObjectPropertyWin.py
+END
+Ui_AddTriggerDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/dsa-hl/!svn/ver/4907/rl/trunk/editors/Lockenwickler/src/Ui_AddTriggerDialog.py
+END
+TerrainDecalCursor.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/TerrainDecalCursor.py
+END
+ObjectPropertyModel.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/ObjectPropertyModel.py
+END
+Lockenwickler.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/Lockenwickler.py
+END
+TriggerManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/dsa-hl/!svn/ver/4910/rl/trunk/editors/Lockenwickler/src/TriggerManager.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/setup.py
+END
+GOStringEditor.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/GOStringEditor.py
+END
+Ui_MyTerrainManagerDock.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/dsa-hl/!svn/ver/4943/rl/trunk/editors/Lockenwickler/src/Ui_MyTerrainManagerDock.py
+END
+ModuleExplorer.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/repos/dsa-hl/!svn/ver/4913/rl/trunk/editors/Lockenwickler/src/ModuleExplorer.py
+END
+ZoneManager.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/dsa-hl/!svn/ver/4912/rl/trunk/editors/Lockenwickler/src/ZoneManager.py
+END
+GOGenericEditor.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/dsa-hl/!svn/ver/4918/rl/trunk/editors/Lockenwickler/src/GOGenericEditor.py
+END
+MyRaySceneQueryListener.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/MyRaySceneQueryListener.py
+END
+PivotRenderQueueListener.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/repos/dsa-hl/!svn/ver/4783/rl/trunk/editors/Lockenwickler/src/PivotRenderQueueListener.py
+END
+help_rc.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/repos/dsa-hl/!svn/ver/4915/rl/trunk/editors/Lockenwickler/src/help_rc.py
+END
+Plugins-windows.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/repos/dsa-hl/!svn/ver/4407/rl/trunk/editors/Lockenwickler/src/Plugins-windows.cfg
+END
+PreferencesDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/repos/dsa-hl/!svn/ver/4903/rl/trunk/editors/Lockenwickler/src/PreferencesDialog.py
+END
+Ui_GOPropertyEditorDialogSTRING.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/repos/dsa-hl/!svn/ver/4567/rl/trunk/editors/Lockenwickler/src/Ui_GOPropertyEditorDialogSTRING.py
+END
+GameObjectClass.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/repos/dsa-hl/!svn/ver/4904/rl/trunk/editors/Lockenwickler/src/GameObjectClass.py
+END
+GOIntEditor.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/repos/dsa-hl/!svn/ver/4855/rl/trunk/editors/Lockenwickler/src/GOIntEditor.py
+END
